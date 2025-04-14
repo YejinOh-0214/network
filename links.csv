@@ -1,0 +1,12 @@
+source,target,weight,link_name,road_category
+Rome,Atlanta,3,Rome-Atlanta,local
+Rome,Busan,5,Rome-Busan,local
+Rome,Shanghai,4,Rome-Shanghai,
+Rome,Cairo,8,Rome-Cairo,
+Atlanta,Busan,3,Atlanta-Busan,
+Cairo,Busan,1,Cairo-Busan,
+Busan,Dubai,7,Busan-Dubai,
+Busan,Essen,3,Busan-Essen,
+Essen,Dubai,2,Essen-Dubai,
+Dubai,Shanghai,4,Dubai-Shanghai,
+Essen,Shanghai,3,Essen-Shanghai,
